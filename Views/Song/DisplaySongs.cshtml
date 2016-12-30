@@ -1,0 +1,35 @@
+﻿@model Hiposoft_HanukaSong.ModelView.SongViewModel
+@using Hiposoft_HanukaSong.Models
+@using System.Web.Mvc
+
+
+    <span style="color:blue;background:center;background-color:steelblue; color:aliceblue;font-size:large;padding:3px;font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif">Hanuka songs catalog:</span>
+    <br />
+    <table style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;background-color:aliceblue;color:steelblue" >
+        <tr>
+            <td style="padding: 8px;text-align: left; border-bottom: 1px solid #ddd">Number</td>
+            <td style="padding: 8px;text-align: left; border-bottom: 1px solid #ddd">Name</td>
+            <td style="padding: 8px;text-align: left; border-bottom: 1px solid #ddd">Writer</td>
+            <td style="padding: 8px;text-align: left; border-bottom: 1px solid #ddd">Lyrics</td>
+            <td style="padding: 8px;text-align: left; border-bottom: 1px solid #ddd">YouTube Link</td>
+        </tr>
+        @foreach (Song obj in Model.songs)
+        {
+            <tr style="border-collapse: collapse; width: 100%;">
+                <th style="padding: 8px;text-align: left; border-bottom: 1px solid #ddd">@obj.Number</th>
+                <th style="padding: 8px;text-align: left; border-bottom: 1px solid #ddd">@obj.Name</th>
+                <th style="padding: 8px;text-align: left; border-bottom: 1px solid #ddd">@obj.WriterName</th>
+                <td>
+                    <button onclick="ShowSong('@obj.Name', '@obj.WriterName', '@obj.Lyrics')">מילים</button>
+                </td>
+                <td><a href="@obj.YouTubeLink" target="_blank">@obj.YouTubeLink</a></td>
+            </tr>
+        }
+    </table>
+
+<script>
+    function ShowSong(objName, objWriterName, objLyrics) {
+        var myWindow = window.open("", "MsgWindow", "width=500,height=600");
+        myWindow.document.write("<h4>" + objName + "\\" + objWriterName + "</h4> <p>" + objLyrics + "</p>");
+    }
+</script>
