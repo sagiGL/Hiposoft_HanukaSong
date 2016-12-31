@@ -1,43 +1,43 @@
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\csc.exe
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\Microsoft.CodeAnalysis.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\Microsoft.CSharp.Core.targets
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\Microsoft.VisualBasic.Core.targets
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\System.Collections.Immutable.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\System.Reflection.Metadata.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\vbc.exe
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\VBCSCompiler.exe
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\VBCSCompiler.exe.config
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Hiposoft_HanukaSong.dll.config
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Hiposoft_HanukaSong.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Hiposoft_HanukaSong.pdb
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Antlr3.Runtime.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\EntityFramework.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\EntityFramework.SqlServer.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Microsoft.Web.Infrastructure.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Newtonsoft.Json.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.Helpers.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.Mvc.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.Optimization.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.Razor.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.WebPages.Deployment.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.WebPages.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.WebPages.Razor.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\WebGrease.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\EntityFramework.xml
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\EntityFramework.SqlServer.xml
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.Helpers.xml
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.Mvc.xml
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.Optimization.xml
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.Razor.xml
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.WebPages.xml
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.WebPages.Deployment.xml
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.WebPages.Razor.xml
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Antlr3.Runtime.pdb
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Newtonsoft.Json.xml
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\obj\Debug\Hiposoft_HanukaSong.dll
-\\Mac\Home\Desktop\Hiposoft_HanukaSong\Hiposoft_HanukaSong\obj\Debug\Hiposoft_HanukaSong.pdb
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\csc.exe
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\Microsoft.CSharp.Core.targets
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\System.Collections.Immutable.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\System.Reflection.Metadata.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\vbc.exe
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\VBCSCompiler.exe
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\roslyn\VBCSCompiler.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Hiposoft_HanukaSong.dll.config
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Hiposoft_HanukaSong.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Hiposoft_HanukaSong.pdb
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Antlr3.Runtime.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Microsoft.Web.Infrastructure.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Newtonsoft.Json.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.Helpers.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.Mvc.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.Optimization.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.Razor.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.WebPages.Deployment.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.WebPages.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.WebPages.Razor.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\WebGrease.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.Helpers.xml
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.Mvc.xml
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.Optimization.xml
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.Razor.xml
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.WebPages.xml
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.WebPages.Deployment.xml
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\System.Web.WebPages.Razor.xml
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Antlr3.Runtime.pdb
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\Newtonsoft.Json.xml
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\obj\Debug\Hiposoft_HanukaSong.dll
+\\mac\home\documents\visual studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\obj\Debug\Hiposoft_HanukaSong.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Hiposoft_HanukaSong\Hiposoft_HanukaSong\bin\EntityFramework.SqlServer.xml

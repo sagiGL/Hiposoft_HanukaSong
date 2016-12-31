@@ -13,7 +13,7 @@
     <title>SearchSongs</title>
     <style>
         body {
-            margin-left: 200px;
+            margin-left: 10px;
             background: #5d9ab2 url("http://www.srugim.co.il/i/wp-content/uploads/2016/12/shutterstock_308682197-e1480874499986__w645h390q80.jpg") no-repeat;
             background-size: cover;
         }
@@ -42,16 +42,16 @@
 
 </head>
 <body>
-    <div> 
+    <div>
         <form action="SearchResults" method="post" style="padding:8px;background-color:aliceblue;color:steelblue;font-size:larger;font:bolder;font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif">
-            Enter song name to search<input id="Text1" name="txtSongName" type="text" />           
-            <input id="Submit1" type="submit" value="Search" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;background-color:red;color:white"/>
+            Enter song name to search<input id="Text1" name="txtSongName" type="text" />
+            <input id="Submit1" type="submit" value="Search" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;background-color:red;color:white" />
         </form>
-        <a href="http://localhost:61435/Song/Enter" target="_blank">OR JUST ADD SONG</a>
+        <a href="http://localhost:61435/Song/Enter">OR JUST ADD SONG</a>
     </div>
     <br />
 
-  @Html.Partial("DisplaySongs", Model)
+    @Html.Partial("DisplaySongs", Model)
 
 </body>
 </html>

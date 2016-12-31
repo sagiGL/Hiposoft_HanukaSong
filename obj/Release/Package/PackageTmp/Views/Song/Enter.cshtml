@@ -1,0 +1,87 @@
+﻿@model Hiposoft_HanukaSong.ModelView.SongViewModel
+@using Hiposoft_HanukaSong.Models
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Enter</title>
+    <style>
+        body {
+            margin-left: 200px;
+            background: #5d9ab2 url("http://www.srugim.co.il/i/wp-content/uploads/2016/12/shutterstock_308682197-e1480874499986__w645h390q80.jpg") no-repeat;
+            background-size: cover;
+        }
+
+        p.serif {
+            font-family: "Times New Roman", Times, serif;
+        }
+
+        p.sansserif {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        a:link, a:visited {
+            background-color: #f44336;
+            color: white;
+            padding: 3px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+
+        a:hover, a:active {
+            background-color: red;
+        }
+    </style>
+</head>
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+
+<body>
+    <div>
+
+        @using (Html.BeginForm("Submit", "Song", FormMethod.Post))
+        {
+            <table style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;background-color:aliceblue;color:steelblue">
+                <tr>
+                <tr>
+                    <td>Song Number:</td>
+                    <td> @Html.TextBoxFor(m => m.song.Number) @Html.ValidationMessageFor(x => x.song.Number)</td>
+                </tr>
+                <tr>
+                    <td>Song Name:</td>
+                    <td> @Html.TextBoxFor(m => m.song.Name) @Html.ValidationMessageFor(x => x.song.Name)</td>
+                </tr>
+                <tr>
+                    <td>Song Writer:</td>
+                    <td> @Html.TextBoxFor(m => m.song.WriterName) @Html.ValidationMessageFor(x => x.song.WriterName)</td>
+                </tr>
+                <tr>
+                    <td>Song Lyrics:</td>
+                    <td>@Html.TextBoxFor(m => m.song.Lyrics) @Html.ValidationMessageFor(x => x.song.Lyrics)</td>
+                </tr>
+                <tr>
+                    <td>Youtube Link:</td>
+                    <td> @Html.TextBoxFor(m => m.song.YouTubeLink) @Html.ValidationMessageFor(x => x.song.YouTubeLink)</td>
+                </tr>
+                <tr>
+                    <td><input id="Submit" type="submit" value="Add Song" /></td>
+                </tr>
+            </table>
+        }
+
+        <br />
+        <a href="http://localhost:61435/Song/SearchSongs" target="_blank">YOU CAN SEARCH TOO</a>
+        @Html.Partial("DisplaySongs", Model)
+
+    </div>
+</body>
+</html>

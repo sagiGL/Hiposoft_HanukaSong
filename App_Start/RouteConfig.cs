@@ -19,17 +19,6 @@ namespace Hiposoft_HanukaSong
                 defaults: new { controller = "Song", action = "Enter", id = UrlParameter.Optional }
             );
 
-            routes.MapRoute(
-                name: "Home",
-                url: "Home",
-                defaults: new { controller = "Home", action = "ShowHomePage", id = UrlParameter.Optional }
-            );
-
-            routes.MapRoute(
-              name: "NewSong",
-              url: "NewSong",
-              defaults: new { controller = "Song", action = "NewSong", id = UrlParameter.Optional }
-          );
 
             routes.MapRoute(
                 name: "Default",

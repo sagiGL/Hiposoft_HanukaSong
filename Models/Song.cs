@@ -10,7 +10,7 @@ namespace Hiposoft_HanukaSong.Models
     {
         [Key]
         [Required]
-        [RegularExpression("^[0-9]")]
+        [RegularExpression("^[0-9]*")]
         public string Number { get; set; }
 
         [Required]

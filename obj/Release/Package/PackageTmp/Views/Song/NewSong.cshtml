@@ -1,0 +1,27 @@
+﻿@model Hiposoft_HanukaSong.Models.Song
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>New Song</title>
+</head>
+<body>
+    <div> 
+        Song Number: @Model.Number
+        <br />
+        Song Name: @Model.Name
+        <br />
+        Song Writer: @Model.WriterName
+        <br />
+        Song Lyrics: @Model.Lyrics
+        <br />
+        YouTubeLink: @Model.YouTubeLink
+    </div>
+</body>
+</html>
